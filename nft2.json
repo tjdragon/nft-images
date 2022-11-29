@@ -1,0 +1,12 @@
+{
+    "description": "NFT-2",
+    "external_url": "https://github.com/tjdragon",
+    "image": "https://raw.githubusercontent.com/tjdragon/nft-images/main/nft2.jpg",
+    "name": "NFT2",
+    "attributes": [
+      {
+        "trait_type": "Base",
+        "value": "#2"
+      }
+    ]
+  }
