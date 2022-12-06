@@ -1,0 +1,12 @@
+{
+    "description": "SINGA-5",
+    "external_url": "https://github.com/tjdragon",
+    "image": "https://raw.githubusercontent.com/tjdragon/nft-images/main/singa5.jpg",
+    "name": "SINGA-5",
+    "attributes": [
+      {
+        "trait_type": "SG",
+        "value": "#1"
+      }
+    ]
+  }
